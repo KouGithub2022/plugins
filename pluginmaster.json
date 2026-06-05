@@ -1,7 +1,7 @@
 [
   {
     "Author": "Liza Carvelli & various contributors",
-    "Name": "Questionable",
+    "Name": "Questionable_Dev",
     "Punchline": "A tiny quest helper plugin.",
     "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
     "Tags": [
@@ -10,7 +10,7 @@
       "qol",
       "utility"
     ],
-    "InternalName": "Questionable",
+    "InternalName": "Questionable_Dev",
     "RepoUrl": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/pluginmaster.json",
     "DownloadCount": 1089108,
     "LastUpdate": 1780670569,
