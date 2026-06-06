@@ -113,5 +113,31 @@
       "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
       "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
     ]
+  },
+    {
+    "Author": "veyn, xan_0",
+    "Name": "Boss Mod",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+    "Tags": [],
+    "InternalName": "BossMod",
+    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+    "DownloadCount": 2125022,
+    "LastUpdate": 1780674853,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossMod/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossMod/latest.zip",
+    "AssemblyVersion": "7.5.0.29",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "7.5.0.30",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossMod/latest.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/30",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+      "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+      "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+    ]
   }
 ]
