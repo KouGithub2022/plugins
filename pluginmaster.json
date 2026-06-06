@@ -139,5 +139,27 @@
       "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
       "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
     ]
+  },
+    {
+    "Author": "croizat",
+    "Name": "CBT 🐎",
+    "Punchline": "Extra illegal",
+    "Description": "Yet another tweaks collection plugin.",
+    "Tags": [
+      "automation",
+      "plugin",
+      "tweaks"
+    ],
+    "InternalName": "Automaton",
+    "RepoUrl": "https://github.com/Jaksuhn/Automaton",
+    "DownloadCount": 703951,
+    "LastUpdate": 1780769586,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/Automaton/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/Automaton/latest.zip",
+    "AssemblyVersion": "69.186",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/34"
   }
 ]
