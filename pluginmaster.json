@@ -165,7 +165,7 @@
     {
     "Author": "sourpuh",
     "Name": "Nameplate Debuffs(PvP)",
-    "Punchline": "",
+    "Punchline": "  ", 
     "Description": "Yet another tweaks collection plugin.",
     "Tags": [],
     "InternalName": "NamePlateDebuffs",
