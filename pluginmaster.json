@@ -167,11 +167,7 @@
     "Name": "Nameplate Debuffs(PvP)",
     "Punchline": "",
     "Description": "Yet another tweaks collection plugin.",
-    "Tags": [
-      "automation",
-      "plugin",
-      "tweaks"
-    ],
+    "Tags": [],
     "InternalName": "NamePlateDebuffs",
     "RepoUrl": "https://github.com/sourpuh/NamePlateDebuffs",
     "DownloadCount": 703951,
