@@ -1,0 +1,21 @@
+{
+  "Author": "Taurenkey (Puni.sh)",
+  "Name": "Artisan",
+  "InternalName": "Artisan",
+  "AssemblyVersion": "4.0.5.16",
+  "Description": "The all-in-one crafting plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/Artisan",
+  "Tags": [
+    "crafting"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+  "Punchline": "A 'simple' crafting plugin.",
+  "Changelog": "- Fix issue with graphical simulator not updating Raphael solutions correctly.\n- Try and prevent adjusting Raphael macros to skip Excellent GS/BB combo when durability would cause a fail.",
+  "AcceptsFeedback": true
+}
