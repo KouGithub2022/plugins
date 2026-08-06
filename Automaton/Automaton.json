@@ -2,7 +2,7 @@
   "Author": "croizat",
   "Name": "CBT",
   "InternalName": "Automaton",
-  "AssemblyVersion": "69.202.0.0",
+  "AssemblyVersion": "69.203",
   "Description": "Tweaks that are sometimes simple, sometimes not.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
@@ -14,7 +14,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
   "Punchline": "Yet another tweaks collection plugin.",
   "AcceptsFeedback": true
 }
