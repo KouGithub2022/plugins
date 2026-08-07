@@ -2,7 +2,7 @@
   "Author": "Team Wrath",
   "Name": "Wrath Combo",
   "InternalName": "WrathCombo",
-  "AssemblyVersion": "1.0.4.19",
+  "AssemblyVersion": "1.0.4.20",
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
