@@ -28,7 +28,7 @@
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/RotationSolver/latest.zip",
-    "AssemblyVersion": "7.5.5.30",
+    "AssemblyVersion": "7.5.5.31",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/RotationSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/RotationSolver/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
