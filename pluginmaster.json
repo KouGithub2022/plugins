@@ -139,6 +139,39 @@
       "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
       "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
     ]
+  },  {
+    "Author": "The Combat Reborn Team",
+    "Name": "BossMod Reborn",
+    "InternalName": "BossModReborn",
+    "Description": "A bunch of utilities to simplify boss mechanics",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 0,
+    "Tags": [
+      "combat",
+      "boss",
+      "dodge",
+      "mechanics",
+      "pve",
+      "raids",
+      "trials"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "RepoUrl": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/pluginmaster.json",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossModRebornCN/latest.zip",
+    "AssemblyVersion": "7.5.6.14",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossModRebornCN/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossModRebornCN/latest.zip",
+    "TestingAssemblyVersion": "7.4.5.11",
+    "Changelog": "## What's Changed\r\n* Second Master board 2x bosses by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1363\r\n* Fix: YoungerTablitaurPiece Swing AOE by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1366\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.6.15...7.5.6.16",
+    "DownloadCount": 3758323
   },
   {
     "Author": "croizat",
