@@ -139,37 +139,6 @@
       "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
       "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
     ]
-  },  {
-    "Author": "The Combat Reborn Team",
-    "Name": "BossMod RebornCN",
-    "InternalName": "BossModRebornCN",
-    "Description": "A bunch of utilities to simplify boss mechanics",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "TestingDalamudApiLevel": 0,
-    "Tags": [
-      "combat",
-      "boss",
-      "dodge",
-      "mechanics",
-      "pve",
-      "raids",
-      "trials"
-    ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-    "Punchline": "Don't fail at raid mechanics anymore",
-    "RepoUrl": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/pluginmaster.json",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossModRebornCN/latest.zip",
-    "AssemblyVersion": "7.5.6.12",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossModRebornCN/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/BossModRebornCN/latest.zip",
-    "TestingAssemblyVersion": "7.4.5.11",
   },
   {
     "Author": "croizat",
