@@ -141,8 +141,8 @@
     ]
   },  {
     "Author": "The Combat Reborn Team",
-    "Name": "BossMod Reborn",
-    "InternalName": "BossModReborn",
+    "Name": "BossMod RebornCN",
+    "InternalName": "BossModRebornCN",
     "Description": "A bunch of utilities to simplify boss mechanics",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
