@@ -2,7 +2,7 @@
   "Author": "Taurenkey (Puni.sh)",
   "Name": "Artisan",
   "InternalName": "Artisan",
-  "AssemblyVersion": "4.0.5.20",
+  "AssemblyVersion": "4.0.5.21",
   "Description": "The all-in-one crafting plugin.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PunishXIV/Artisan",
@@ -16,6 +16,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
   "Punchline": "A 'simple' crafting plugin.",
-  "Changelog": "- Add premade lists for relic tools.\n- Add IPC for macro information.",
+  "Changelog": "- Allow copy of premade lists into user lists.\n- Fix export of premade lists.",
   "AcceptsFeedback": true
 }
