@@ -2,7 +2,7 @@
   "Author": "veyn",
   "Name": "Boss Mod",
   "InternalName": "BossMod",
-  "AssemblyVersion": "757.1.0.1",
+  "AssemblyVersion": "757.2.0.1",
   "Description": "Boss Mod is a combat and raid utility plugin featuring encounter radar, auto-rotation, cooldown planning, and AI automation.\n\nFeatures:\n• Radar & Mechanics: Real-time arena mini-map displaying player and boss positions, upcoming AoEs, mechanic hints, and safe spot resolutions.\n• Autorotation: Optimal rotation execution supporting slidecasting, oGCD weaving, action queuing, and smart targeting.\n• Cooldown Planner: Timeline-based mitigation and cooldown planning customizable per encounter.\n• AI: Movement automation to avoid AoEs and resolve encounter mechanics.\n• Replay Tools: Encounter recording and analysis for review and module creation.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
